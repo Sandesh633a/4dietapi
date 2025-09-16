@@ -1,0 +1,92 @@
+{
+  "personalInfo": {
+    "fullName": "Rohan Verma",
+    "dob": "1980-05-15",
+    "gender": "Male",
+    "age": 45,
+    "contact": {
+      "phone": "+919876543210",
+      "email": "rohan.verma@example.com"
+    }
+  },
+  "vitals": {
+    "height_cm": 175,
+    "weight_kg": 82,
+    "bmi": 26.8,
+    "bp": "140/90 mmHg",
+    "pulseRate": 78,
+    "respirationRate": 16,
+    "temperature": "98.4°F"
+  },
+  "ayurvedaProfile": {
+    "prakriti": "Pitta-Kapha",
+    "doshaImbalance": "Pitta",
+    "agni": "Tikshna",
+    "tastePref": [
+      "sweet",
+      "bitter",
+      "astringent"
+    ],
+    "foodProperties": [
+      "cool",
+      "light",
+      "dry"
+    ],
+    "season": "Summer"
+  },
+  "lifestyle": {
+    "dietType": "Vegetarian",
+    "mealFreq": 3,
+    "waterIntake_l": 2.5,
+    "bowel": "Normal",
+    "sleepPattern": "11 PM - 6 AM",
+    "physicalActivity": "Moderate",
+    "stressLevel": "Moderate"
+  },
+  "medicalInfo": {
+    "allergies": [
+      "None reported"
+    ],
+    "conditions": [
+      "Hypertension",
+      "Prediabetes"
+    ],
+    "medications": [
+      "Amlodipine 5mg"
+    ],
+    "labReports": {
+      "bloodSugarFasting": "115 mg/dL",
+      "cholesterol": "210 mg/dL",
+      "hb": "14.2 g/dL"
+    }
+  },
+  "dietaryPreferences": {
+    "avoidFoods": [
+      "excessively spicy food",
+      "oily fried food",
+      "fermented foods"
+    ],
+    "preferredFoods": [
+      "moong dal",
+      "ghee",
+      "pomegranate",
+      "leafy greens"
+    ],
+    "restrictedByReligion": "No"
+  },
+  "goals": {
+    "shortTerm": "Reduce pitta imbalance and lower blood pressure",
+    "longTerm": "Maintain healthy blood pressure and prevent diabetes"
+  },
+  "attachments": [
+    {
+      "name": "BloodReport_Aug2025.pdf",
+      "size": 120450,
+      "type": "application/pdf"
+    }
+  ],
+  "calculated": {
+    "age": 45,
+    "bmi": 26.8
+  }
+}

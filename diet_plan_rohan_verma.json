@@ -1,0 +1,479 @@
+{
+    "plan_metadata": {
+        "patient_name": "Rohan Verma",
+        "plan_duration_days": 7,
+        "primary_goal": "Reduce pitta imbalance and lower blood pressure",
+        "daily_calorie_target_kcal": 2232
+    },
+    "weekly_plan": [
+        {
+            "day": 1,
+            "daily_total_calories_kcal": 1490,
+            "meals": {
+                "breakfast": {
+                    "items": [
+                        {
+                            "Dish_ID": 30,
+                            "Dish_Name": "Pesarattu (Moong Dal Dosa)",
+                            "Category": "Breakfast",
+                            "Calories_kcal": 280,
+                            "Notes": "High-protein, cooling breakfast. Excellent for Kapha and Pitta."
+                        }
+                    ]
+                },
+                "lunch": {
+                    "items": [
+                        {
+                            "Dish_ID": 644,
+                            "Dish_Name": "Singhara Atta Roti (Water Chestnut Roti)",
+                            "Category": "Breads",
+                            "Calories_kcal": 160,
+                            "Notes": "Cooling and gluten-free. Commonly eaten during fasts."
+                        },
+                        {
+                            "Dish_ID": 631,
+                            "Dish_Name": "Kootu (Lentil and Vegetable Stew)",
+                            "Category": "Main Course",
+                            "Calories_kcal": 290,
+                            "Notes": "South Indian stew, easier to digest than sambar. Tridoshic."
+                        },
+                        {
+                            "Dish_ID": 607,
+                            "Dish_Name": "Ash Gourd Curry (Kumbalanga Olan)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 150,
+                            "Notes": "Extremely cooling and Sattvic. Calms the nerves and detoxifies, excellent for Pitta."
+                        },
+                        {
+                            "Dish_ID": 650,
+                            "Dish_Name": "Rose Sharbat (Gulkand Drink)",
+                            "Category": "Beverages",
+                            "Calories_kcal": 100,
+                            "Notes": "Excellent for cooling Pitta, reducing acidity, and calming the heart."
+                        }
+                    ]
+                },
+                "dinner": {
+                    "items": [
+                        {
+                            "Dish_ID": 1,
+                            "Dish_Name": "Classic Moong Dal Khichdi",
+                            "Category": "Healing Meals",
+                            "Calories_kcal": 350,
+                            "Notes": "Tridoshic, the ultimate food for detoxification and digestive reset."
+                        },
+                        {
+                            "Dish_ID": 19,
+                            "Dish_Name": "Cabbage & Pea Sabzi",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 160,
+                            "Notes": "Good for Pitta/Kapha. Cook with ginger/hing to avoid Vata aggravation (gas)."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "day": 2,
+            "daily_total_calories_kcal": 1370,
+            "meals": {
+                "breakfast": {
+                    "items": [
+                        {
+                            "Dish_ID": 30,
+                            "Dish_Name": "Pesarattu (Moong Dal Dosa)",
+                            "Category": "Breakfast",
+                            "Calories_kcal": 280,
+                            "Notes": "High-protein, cooling breakfast. Excellent for Kapha and Pitta."
+                        }
+                    ]
+                },
+                "lunch": {
+                    "items": [
+                        {
+                            "Dish_ID": 644,
+                            "Dish_Name": "Singhara Atta Roti (Water Chestnut Roti)",
+                            "Category": "Breads",
+                            "Calories_kcal": 160,
+                            "Notes": "Cooling and gluten-free. Commonly eaten during fasts."
+                        },
+                        {
+                            "Dish_ID": 604,
+                            "Dish_Name": "Lauki Chana Dal",
+                            "Category": "Main Course",
+                            "Calories_kcal": 280,
+                            "Notes": "Lauki's lightness balances the heaviness of chana dal."
+                        },
+                        {
+                            "Dish_ID": 605,
+                            "Dish_Name": "Beetroot Thoran (with Coconut)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 180,
+                            "Notes": "Beetroot is heating, coconut is cooling, creating a balanced, Pitta-pacifying dish."
+                        },
+                        {
+                            "Dish_ID": 650,
+                            "Dish_Name": "Rose Sharbat (Gulkand Drink)",
+                            "Category": "Beverages",
+                            "Calories_kcal": 100,
+                            "Notes": "Excellent for cooling Pitta, reducing acidity, and calming the heart."
+                        }
+                    ]
+                },
+                "dinner": {
+                    "items": [
+                        {
+                            "Dish_ID": 5,
+                            "Dish_Name": "Kanji (Simple Rice Gruel)",
+                            "Category": "Healing Meals",
+                            "Calories_kcal": 150,
+                            "Notes": "Extremely light and hydrating. Prescribed during fever and weak digestion."
+                        },
+                        {
+                            "Dish_ID": 603,
+                            "Dish_Name": "Sprouted Moong Sabzi",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 220,
+                            "Notes": "Sattvic and full of Prana. Steaming makes sprouts easy to digest."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "day": 3,
+            "daily_total_calories_kcal": 1390,
+            "meals": {
+                "breakfast": {
+                    "items": [
+                        {
+                            "Dish_ID": 640,
+                            "Dish_Name": "Neer Dosa (Watery Rice Crepe)",
+                            "Category": "Breakfast",
+                            "Calories_kcal": 200,
+                            "Notes": "Extremely light and soft crepe from Karnataka. Good for Pitta."
+                        }
+                    ]
+                },
+                "lunch": {
+                    "items": [
+                        {
+                            "Dish_ID": 22,
+                            "Dish_Name": "Jowar Roti (Sorghum Flatbread)",
+                            "Category": "Breads",
+                            "Calories_kcal": 140,
+                            "Notes": "Gluten-free, cooling, and drying. Excellent for Pitta and Kapha."
+                        },
+                        {
+                            "Dish_ID": 631,
+                            "Dish_Name": "Kootu (Lentil and Vegetable Stew)",
+                            "Category": "Main Course",
+                            "Calories_kcal": 290,
+                            "Notes": "South Indian stew, easier to digest than sambar. Tridoshic."
+                        },
+                        {
+                            "Dish_ID": 13,
+                            "Dish_Name": "Lauki Sabzi (Bottle Gourd Curry)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 150,
+                            "Notes": "Extremely cooling, hydrating, and calming for Pitta."
+                        },
+                        {
+                            "Dish_ID": 36,
+                            "Dish_Name": "Barley Water (Jau ka Paani)",
+                            "Category": "Beverages",
+                            "Calories_kcal": 80,
+                            "Notes": "Diuretic and cooling. Reduces water retention and pacifies Pitta and Kapha."
+                        }
+                    ]
+                },
+                "dinner": {
+                    "items": [
+                        {
+                            "Dish_ID": 3,
+                            "Dish_Name": "Palak Khichdi (Spinach Kitchari)",
+                            "Category": "Healing Meals",
+                            "Calories_kcal": 380,
+                            "Notes": "Iron-rich and purifying. Excellent for Pitta dosha."
+                        },
+                        {
+                            "Dish_ID": 607,
+                            "Dish_Name": "Ash Gourd Curry (Kumbalanga Olan)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 150,
+                            "Notes": "Extremely cooling and Sattvic. Calms the nerves and detoxifies, excellent for Pitta."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "day": 4,
+            "daily_total_calories_kcal": 1240,
+            "meals": {
+                "breakfast": {
+                    "items": [
+                        {
+                            "Dish_ID": 640,
+                            "Dish_Name": "Neer Dosa (Watery Rice Crepe)",
+                            "Category": "Breakfast",
+                            "Calories_kcal": 200,
+                            "Notes": "Extremely light and soft crepe from Karnataka. Good for Pitta."
+                        }
+                    ]
+                },
+                "lunch": {
+                    "items": [
+                        {
+                            "Dish_ID": 22,
+                            "Dish_Name": "Jowar Roti (Sorghum Flatbread)",
+                            "Category": "Breads",
+                            "Calories_kcal": 140,
+                            "Notes": "Gluten-free, cooling, and drying. Excellent for Pitta and Kapha."
+                        },
+                        {
+                            "Dish_ID": 10,
+                            "Dish_Name": "Dal Palak (Lentils with Spinach)",
+                            "Category": "Lentils (Dal)",
+                            "Calories_kcal": 320,
+                            "Notes": "Highly nutritious and cooling. Great for Pitta."
+                        },
+                        {
+                            "Dish_ID": 611,
+                            "Dish_Name": "Tendli Sabzi (Ivy Gourd Stir-fry)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 190,
+                            "Notes": "Balances blood sugar and is good for Kapha and Pitta."
+                        },
+                        {
+                            "Dish_ID": 36,
+                            "Dish_Name": "Barley Water (Jau ka Paani)",
+                            "Category": "Beverages",
+                            "Calories_kcal": 80,
+                            "Notes": "Diuretic and cooling. Reduces water retention and pacifies Pitta and Kapha."
+                        }
+                    ]
+                },
+                "dinner": {
+                    "items": [
+                        {
+                            "Dish_ID": 5,
+                            "Dish_Name": "Kanji (Simple Rice Gruel)",
+                            "Category": "Healing Meals",
+                            "Calories_kcal": 150,
+                            "Notes": "Extremely light and hydrating. Prescribed during fever and weak digestion."
+                        },
+                        {
+                            "Dish_ID": 606,
+                            "Dish_Name": "Cabbage Thoran",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 160,
+                            "Notes": "Very light and scrapes fat. Excellent for Kapha. Vata should have with ghee."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "day": 5,
+            "daily_total_calories_kcal": 1445,
+            "meals": {
+                "breakfast": {
+                    "items": [
+                        {
+                            "Dish_ID": 613,
+                            "Dish_Name": "Amaranth Porridge (Rajgira)",
+                            "Category": "Breakfast",
+                            "Calories_kcal": 280,
+                            "Notes": "Gluten-free, light, and easy to digest. Common during fasts."
+                        }
+                    ]
+                },
+                "lunch": {
+                    "items": [
+                        {
+                            "Dish_ID": 26,
+                            "Dish_Name": "Steamed Basmati Rice",
+                            "Category": "Grains",
+                            "Calories_kcal": 205,
+                            "Notes": "Aromatic and Sattvic. Easiest grain to digest for most people."
+                        },
+                        {
+                            "Dish_ID": 6,
+                            "Dish_Name": "Simple Moong Dal (No Tadka)",
+                            "Category": "Lentils (Dal)",
+                            "Calories_kcal": 220,
+                            "Notes": "Boiled moong dal is very light and pacifies Pitta. Ideal for sensitive guts."
+                        },
+                        {
+                            "Dish_ID": 13,
+                            "Dish_Name": "Lauki Sabzi (Bottle Gourd Curry)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 150,
+                            "Notes": "Extremely cooling, hydrating, and calming for Pitta."
+                        },
+                        {
+                            "Dish_ID": 649,
+                            "Dish_Name": "Brahmi Sharbat (Memory Boosting Drink)",
+                            "Category": "Beverages",
+                            "Calories_kcal": 80,
+                            "Notes": "Brahmi is a nervine tonic, cools the mind, and enhances memory. Tridoshic."
+                        }
+                    ]
+                },
+                "dinner": {
+                    "items": [
+                        {
+                            "Dish_ID": 1,
+                            "Dish_Name": "Classic Moong Dal Khichdi",
+                            "Category": "Healing Meals",
+                            "Calories_kcal": 350,
+                            "Notes": "Tridoshic, the ultimate food for detoxification and digestive reset."
+                        },
+                        {
+                            "Dish_ID": 14,
+                            "Dish_Name": "Turai Sabzi (Ridge Gourd Curry)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 160,
+                            "Notes": "Light and purifies the blood. Good for Pitta and liver health."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "day": 6,
+            "daily_total_calories_kcal": 1600,
+            "meals": {
+                "breakfast": {
+                    "items": [
+                        {
+                            "Dish_ID": 43,
+                            "Dish_Name": "Roasted Makhana (Fox Nuts)",
+                            "Category": "Snacks",
+                            "Calories_kcal": 110,
+                            "Notes": "Light, crunchy, and nutritious. Tridoshic, especially good for Vata."
+                        }
+                    ]
+                },
+                "lunch": {
+                    "items": [
+                        {
+                            "Dish_ID": 612,
+                            "Dish_Name": "Barley Pulao with Vegetables",
+                            "Category": "Grains",
+                            "Calories_kcal": 320,
+                            "Notes": "Diuretic and cooling, excellent for reducing Kapha and Pitta."
+                        },
+                        {
+                            "Dish_ID": 604,
+                            "Dish_Name": "Lauki Chana Dal",
+                            "Category": "Main Course",
+                            "Calories_kcal": 280,
+                            "Notes": "Lauki's lightness balances the heaviness of chana dal."
+                        },
+                        {
+                            "Dish_ID": 17,
+                            "Dish_Name": "Steamed Carrot & Beans Sabzi",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 130,
+                            "Notes": "Lightly cooked vegetables retain Prana. Tridoshic and gentle."
+                        },
+                        {
+                            "Dish_ID": 634,
+                            "Dish_Name": "Shatavari Milk",
+                            "Category": "Beverages",
+                            "Calories_kcal": 140,
+                            "Notes": "Excellent female reproductive tonic. Calming and Pitta pacifying."
+                        }
+                    ]
+                },
+                "dinner": {
+                    "items": [
+                        {
+                            "Dish_ID": 3,
+                            "Dish_Name": "Palak Khichdi (Spinach Kitchari)",
+                            "Category": "Healing Meals",
+                            "Calories_kcal": 380,
+                            "Notes": "Iron-rich and purifying. Excellent for Pitta dosha."
+                        },
+                        {
+                            "Dish_ID": 608,
+                            "Dish_Name": "Raw Banana Sabzi (Kacche Kele ki Sabzi)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 240,
+                            "Notes": "Astringency helps bind stool, good for digestive issues. Can be drying for Vata."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "day": 7,
+            "daily_total_calories_kcal": 1580,
+            "meals": {
+                "breakfast": {
+                    "items": [
+                        {
+                            "Dish_ID": 613,
+                            "Dish_Name": "Amaranth Porridge (Rajgira)",
+                            "Category": "Breakfast",
+                            "Calories_kcal": 280,
+                            "Notes": "Gluten-free, light, and easy to digest. Common during fasts."
+                        }
+                    ]
+                },
+                "lunch": {
+                    "items": [
+                        {
+                            "Dish_ID": 612,
+                            "Dish_Name": "Barley Pulao with Vegetables",
+                            "Category": "Grains",
+                            "Calories_kcal": 320,
+                            "Notes": "Diuretic and cooling, excellent for reducing Kapha and Pitta."
+                        },
+                        {
+                            "Dish_ID": 6,
+                            "Dish_Name": "Simple Moong Dal (No Tadka)",
+                            "Category": "Lentils (Dal)",
+                            "Calories_kcal": 220,
+                            "Notes": "Boiled moong dal is very light and pacifies Pitta. Ideal for sensitive guts."
+                        },
+                        {
+                            "Dish_ID": 605,
+                            "Dish_Name": "Beetroot Thoran (with Coconut)",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 180,
+                            "Notes": "Beetroot is heating, coconut is cooling, creating a balanced, Pitta-pacifying dish."
+                        },
+                        {
+                            "Dish_ID": 649,
+                            "Dish_Name": "Brahmi Sharbat (Memory Boosting Drink)",
+                            "Category": "Beverages",
+                            "Calories_kcal": 80,
+                            "Notes": "Brahmi is a nervine tonic, cools the mind, and enhances memory. Tridoshic."
+                        }
+                    ]
+                },
+                "dinner": {
+                    "items": [
+                        {
+                            "Dish_ID": 628,
+                            "Dish_Name": "Rice and Moong Dal Porridge (Arisi Kanji)",
+                            "Category": "Healing Meals",
+                            "Calories_kcal": 280,
+                            "Notes": "South Indian version of Kanji, often given during illness for energy."
+                        },
+                        {
+                            "Dish_ID": 603,
+                            "Dish_Name": "Sprouted Moong Sabzi",
+                            "Category": "Vegetables (Sabzi)",
+                            "Calories_kcal": 220,
+                            "Notes": "Sattvic and full of Prana. Steaming makes sprouts easy to digest."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
